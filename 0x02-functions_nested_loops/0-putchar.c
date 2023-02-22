@@ -1,7 +1,6 @@
 #include "main.h"
 /**
  * main - print _putchar
- * is written by Boluwatife
  * Return: 0
  */
 
@@ -18,3 +17,4 @@ _putchar('r');
 _putchar('\n');
 return (0);
 }
+
